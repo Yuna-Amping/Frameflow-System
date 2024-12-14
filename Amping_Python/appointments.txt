@@ -1,0 +1,16 @@
+Appointment ID: APP1734174433
+Client Name: Milagros M. Magsombol
+Client Contact Number: 098765432121
+Client Email Address: milagrosmagsombol@email.com
+Type of Event: Family Reunion Party
+Event Address: San Luis, Batangas
+Event Date: 2024-12-15
+Event Time: 10:00:00
+Selected Service: P1
+Photography Service Details: 
+ + + Photography Service Price - Php 6,000.00 
+ + + Photo Album - Included. Php 3,000.00, 
+ + + Framed Photos - Included. Php 1,000.00
+Total Price: Php. 10000.0
+Appointment Confirmation Date: 2024-12-14
+==================================================

@@ -1,0 +1,2 @@
+Appointment ID: APP1734174433 || Client Name: Milagros M. Magsombol ||Client Contact Number: 098765432121 || Event Date: 2024-12-15 || Appointment Scheduled: 2024-12-14
+==================================================
